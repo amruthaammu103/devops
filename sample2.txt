@@ -1,0 +1,2 @@
+devops is the combination of development and application
+devops is to create deployment project
